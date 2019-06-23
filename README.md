@@ -7,6 +7,7 @@ Quite Exciting Python Games and GUI
  - Web Crawler (CUI)
  - Web Crawler (GUI)
  - CMS (using file system)
+ - Twitter Bot for reacting to particular hashtags and more :)
  
  
 ### Game - 
